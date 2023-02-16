@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "dern-backend-executor",
+    "name": "dern-backend",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "iz9spmtxt6"
+  }
+}
